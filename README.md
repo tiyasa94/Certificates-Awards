@@ -22,12 +22,6 @@ Throughout my career, I have had the privilege of learning from some of the brig
 - **watsonx.ai Technical Sales Advanced**  
   *Issued by IBM* | Jun 2024
 
-- **watsonx.ai Technical Sales Intermediate**  
-  *Issued by IBM* | Jun 2024
-
-- **Data Science and MLOps Technical Sales Intermediate**  
-  *Issued by IBM* | Feb 2024
-
 - **Generative AI for Code with watsonx Code Assistant Technical Sales Intermediate**  
   *Issued by IBM* | Feb 2024
 
@@ -42,9 +36,6 @@ Throughout my career, I have had the privilege of learning from some of the brig
 
 - **Google Data Analytics Certificate**  
   *Issued by Coursera* | Apr 2022
-
-- **Natural Language Processing: Getting Started with NLP**  
-  *Issued by Skillsoft* | Mar 2022
 
 - **Storytelling with Data: Introduction**  
   *Issued by Skillsoft* | Mar 2022

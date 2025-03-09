@@ -58,7 +58,7 @@ Throughout my career, I have had the privilege of learning from some of the brig
 
 Each recognition reflects my dedication to innovation, leadership, and integrity in the workplace. I have been honored to receive the following awards for my efforts:
 
-- **Accenture Achievement Award**  
+- **Accenture Star Award**  
   *Issued by Accenture Applied Intelligence* | Aug 2023  
   Recognized for my excellence and contributions in delivering impactful business solutions.
 
@@ -73,26 +73,6 @@ Each recognition reflects my dedication to innovation, leadership, and integrity
 - **National Talent Search Examination (NTSE) Scholarship**  
   *Issued by DST* | May 2014  
   Awarded for my top academic performance during school years.
-
----
-
-## **Client & Team Recognition**
-
-- **Client Value Creation Award**  
-  *Awarded by Manager at Accenture*  
-  Recognized for consistently driving client value through innovative solutions.
-
-- **Best People Award**  
-  *Awarded by Team Lead at Accenture*  
-  Honored for being an innovative, curious, and tech-savvy collaborator.
-
-- **Actively Innovate Award**  
-  *Awarded by Project Manager at Accenture*  
-  Acknowledged for fostering innovation in all aspects of my work.
-
-- **Integrity Award**  
-  *Awarded by Project Manager at Accenture*  
-  Recognized for maintaining a strong ethical foundation in data loading and operations.
 
 ---
 

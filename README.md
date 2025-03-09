@@ -10,6 +10,9 @@ Throughout my career, I have had the privilege of learning from some of the brig
 
 ## **Certifications**
 
+- ***Modern Automated AI Agents: Building Agentic AI to Perform Complex Tasks**
+ *Issued by IBM-Oreilly* | Feb 2025
+  
 - **Mathematical Foundations of Machine Learning**  
   *Issued by Udemy* | Sep 2024
 
